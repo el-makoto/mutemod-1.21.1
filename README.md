@@ -1,4 +1,4 @@
-# Fabric Example Mod
+# Discord Mute Mod by el-makoto
 
 ## English
 
